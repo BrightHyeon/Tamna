@@ -14,6 +14,7 @@
 		96EDE6082882B0F00027D1CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96EDE6072882B0F00027D1CB /* Preview Assets.xcassets */; };
 		96EDE60F2882B3050027D1CB /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EDE60E2882B3050027D1CB /* ARViewContainer.swift */; };
 		96EDE6112882B32D0027D1CB /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EDE6102882B32D0027D1CB /* Coordinator.swift */; };
+		96EDE6132882B8D70027D1CB /* NotSupportedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EDE6122882B8D70027D1CB /* NotSupportedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		96EDE6072882B0F00027D1CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		96EDE60E2882B3050027D1CB /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
 		96EDE6102882B32D0027D1CB /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		96EDE6122882B8D70027D1CB /* NotSupportedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotSupportedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				96EDE5FE2882B0F00027D1CB /* AppDelegate.swift */,
 				96EDE6002882B0F00027D1CB /* ContentView.swift */,
+				96EDE6122882B8D70027D1CB /* NotSupportedView.swift */,
 				96EDE60E2882B3050027D1CB /* ARViewContainer.swift */,
 				96EDE6102882B32D0027D1CB /* Coordinator.swift */,
 				96EDE6022882B0F00027D1CB /* Experience.rcproject */,
@@ -151,6 +154,7 @@
 				96EDE6112882B32D0027D1CB /* Coordinator.swift in Sources */,
 				96EDE5FF2882B0F00027D1CB /* AppDelegate.swift in Sources */,
 				96EDE6032882B0F00027D1CB /* Experience.rcproject in Sources */,
+				96EDE6132882B8D70027D1CB /* NotSupportedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
